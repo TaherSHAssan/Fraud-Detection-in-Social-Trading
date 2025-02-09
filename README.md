@@ -1,6 +1,6 @@
 This Telegram bot leverages advanced AI models to detect potential fraudulent messages, images, and metadata in real time. It sends alerts for high-risk communications, providing users with an additional layer of security against scams and phishing attempts.
 
-The system integrates multiple AI models to analyze text, images, and metadata, delivering a comprehensive fraud detection mechanism.
+The system integrates multiple AI models to analyze text, images, and metadata, delivering a comprehensive fraud detection mechanism. Also, you will find 2 images shows the testing process.
 
 Features:
 
